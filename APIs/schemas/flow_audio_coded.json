@@ -12,7 +12,7 @@
       ],
       "properties": {
         "media_type": {
-          "description": "Subclassification of the format using IANA assigned media types",
+          "description": "Subclassification of the format using IANA assigned media types, if available",
           "type": "string",
           "pattern": "^audio\\/[^\\s\\/]+$",
           "not": {
